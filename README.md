@@ -1,16 +1,25 @@
-### Hi there 👋
+## Akram Zaytar
 
-<!--
-**Akramz/akramz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Badge](https://img.shields.io/github/followers/akramz?style=social)](https://github.com/akramz?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/akramoz?style=social)](https://twitter.com/akramoz)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=m1J5OaIAAAAJ&hl=en&authuser=1)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/akramz/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.notion.so/Resume-c2bda93fd82f462fb3982d31a7785aee)
 
-Here are some ideas to get you started:
+I am a Ph.D. candidate at the faculty of sciences and technologies Tangier, working at the intersection of representation learning and environmental science. I am interested in machine learning, computer vision, and climate change. I have research experience in weather forecasting, air quality monitoring, precision agriculture, and remote sensing applications. My work has been featured on international venues such as [ICLR 2020](https://www.cv4gc.org/cv4a2020/), [Deep Learning Indaba 2018](https://deeplearningindaba.com/2020/), and [EGU 2018](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-19766.pdf). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- --- -->
+<!-- ### Open-source Projects -->
+<!-- - **PROJECT CATEGORY:** [PROJECT-1](https://github.com/akramz/project-1) | [PROJECT-2](https://github.com/akramz/project-2). -->
+<!-- --- -->
+
+### Latest Blog Posts
+<!-- HASHNODE:START -->
+- [Review: Backpropagation Applied to Handwritten Zip Code Recognition (1989)](http://www.akramz.space/posts/digit_recognizer/)
+- [Environmental Science, Climate Change, and Air Pollution](http://www.akramz.space/posts/environmental-science/)
+<!-- HASHNODE:END -->
+---
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=akramz&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramz&hide=css,html)
