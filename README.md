@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/akramz/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.notion.so/Resume-c2bda93fd82f462fb3982d31a7785aee)
 
-I am a Ph.D. candidate at the faculty of sciences and technologies Tangier, working at the intersection of representation learning and environmental science. I am interested in machine learning, computer vision, and climate change. I have research experience in weather forecasting, air quality monitoring, precision agriculture, and remote sensing applications. My work has been featured on international venues such as [ICLR 2020](https://www.cv4gc.org/cv4a2020/), [Deep Learning Indaba 2018](https://deeplearningindaba.com/2020/), and [EGU 2018](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-19766.pdf). 
+I am a postdoc scientist at IBM Research working at the intersection of representation learning and environmental science. I am interested in machine learning, computer vision, and climate change. I have research experience in weather forecasting, air quality monitoring, precision agriculture, and remote sensing applications. My work has been featured on international venues such as [ICLR 2020](https://www.cv4gc.org/cv4a2020/), [Deep Learning Indaba 2018](https://deeplearningindaba.com/2020/), and [EGU 2018](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-19766.pdf). 
 
 <!-- --- -->
 <!-- ### Open-source Projects -->
