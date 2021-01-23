@@ -13,11 +13,6 @@ I am a postdoc scientist at IBM Research working at the intersection of represen
 <!-- - **PROJECT CATEGORY:** [PROJECT-1](https://github.com/akramz/project-1) | [PROJECT-2](https://github.com/akramz/project-2). -->
 <!-- --- -->
 
-### Latest Blog Posts
-<!-- HASHNODE:START -->
-- [Review: Backpropagation Applied to Handwritten Zip Code Recognition (1989)](http://www.akramz.space/posts/digit_recognizer/)
-- [Environmental Science, Climate Change, and Air Pollution](http://www.akramz.space/posts/environmental-science/)
-<!-- HASHNODE:END -->
 ---
 
 
