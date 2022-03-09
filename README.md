@@ -15,6 +15,4 @@ I am a postdoc scientist at IBM Research working at the intersection of represen
 
 ---
 
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=akramz&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramz&hide=css,html)
