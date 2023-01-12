@@ -15,4 +15,4 @@ I am an applied scientist at IBM Research working at the intersection of represe
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=akramz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
